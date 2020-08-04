@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AxgleAPI</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_bsn_video">Videos</string>
+    <string name="title_bsn_category">Categories</string>
+    <string name="title_bsn_search">Search</string>
+    <string name="title_bsn_favorite">Favorites</string>
+    <string name="text_video_private">Sorry..! This is a private video so there will be no options for the video.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_bsn_collections">Collections</string>
+</resources>

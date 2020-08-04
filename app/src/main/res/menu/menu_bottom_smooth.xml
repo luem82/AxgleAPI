@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nv_video"
+        android:icon="@drawable/ic_ondemand_video_black_24dp"
+        android:title="@string/title_bsn_video" />
+
+    <item
+        android:id="@+id/nv_category"
+        android:icon="@drawable/ic_view_list_black_24dp"
+        android:title="@string/title_bsn_category" />
+
+    <item
+        android:id="@+id/nv_collection"
+        android:icon="@drawable/ic_collections_black_24dp"
+        android:title="@string/title_bsn_collections" />
+
+    <item
+        android:id="@+id/nv_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/title_bsn_search" />
+
+    <item
+        android:id="@+id/nv_favorite"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/title_bsn_favorite" />
+
+</menu>
